@@ -1,0 +1,30 @@
+/* Navbar */
+.navbar-brand{
+    font-size: 30px;
+    color: black;
+    background-color: aquamarine;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+/* LandingPage */
+
+.card_container{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding: 15px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.producttype{
+    width: 150px;
+}
+
+.img_modal{
+    width: 100%;
+}
