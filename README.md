@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The Ecommerce Landing Page frontend is built using HTML, CSS, JavaScript, and React, providing a dynamic and responsive user interface. HTML structures the content, while CSS enhances its visual appeal. React enables the creation of reusable components and efficient state management. React Router allows smooth navigation between pages, and Axios is used for making HTTP requests to the backend API, enabling real-time data fetching for product listings and user information. This technology stack ensures a robust and user-friendly Ecommerce experience.
